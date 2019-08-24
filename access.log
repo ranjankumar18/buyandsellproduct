@@ -1,0 +1,6 @@
+::ffff:127.0.0.1 - - [18/Aug/2019:15:24:30 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+::ffff:127.0.0.1 - - [18/Aug/2019:15:24:30 +0000] "GET /css/main.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+::ffff:127.0.0.1 - - [18/Aug/2019:15:24:30 +0000] "GET /css/product.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+::1 - - [18/Aug/2019:15:24:30 +0000] "GET /images/1563727703542-boat.jpg HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+::1 - - [18/Aug/2019:15:24:30 +0000] "GET /images/1563728332039-boat2.jpg HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+::1 - - [18/Aug/2019:15:24:30 +0000] "GET /js/main.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
